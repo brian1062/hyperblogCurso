@@ -3,7 +3,7 @@ Blog de curso de git github platzi
 >aprendiendo a escribir un readme 
 del curso.
 
-##Aqui aprendimos a utilizar:
+## Aqui aprendimos a utilizar:
 - Comandos de git
 - Flujo de trabajo de git
 - Buenas practicas de git
